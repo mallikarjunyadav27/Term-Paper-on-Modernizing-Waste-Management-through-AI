@@ -1,0 +1,2 @@
+# Term-Paper-on-Modernizing-Waste-Management-through-AI
+My idea is that they need to look for industrial automation using smart waste management techniques. This is needed right from proper waste disposal, waste collection, prompt checking to prevent over flow to safely disposing them. Recycling is yet another major innovative step towards reduction of waste and to get back from the used products. 
